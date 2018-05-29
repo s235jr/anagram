@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String tekst1 = "bomba";
+        String tekst1 = "baoabb";
         String tekst2 = "baobab";
         boolean isAnagram = true;
 

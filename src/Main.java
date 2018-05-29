@@ -4,7 +4,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         String tekst1 = "bomba";
-        String tekst2 = "bmoab";
+        String tekst2 = "baobab";
         boolean isAnagram = true;
 
         List<Character> listOfChar = new ArrayList<Character>();

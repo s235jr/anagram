@@ -3,8 +3,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        String tekst1 = "baoabb";
-        String tekst2 = "baobab";
+        String tekst1 = "badoabb";
+        String tekst2 = "baobadb";
         boolean isAnagram = true;
 
         List<Character> listOfChar = new ArrayList<Character>();

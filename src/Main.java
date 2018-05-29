@@ -5,8 +5,8 @@ import java.util.List;
 
 public class Main {
 	public static void main(String[] args) {
-		String tekst1 = "badoabbdddd";
-		String tekst2 = "baobadb";
+		String tekst1 = "katastrofa";
+		String tekst2 = "katastrofa";
 		boolean isAnagram = true;
 
 		List<Character> listOfChar = new ArrayList<Character>();
